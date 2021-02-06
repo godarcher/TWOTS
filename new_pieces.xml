@@ -1,0 +1,1466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces>
+	<!--Simple Katana-->
+    <CraftingPiece id="katanasimpleblade" name="{=czhTpYo8}Katana Nagasa" tier="2" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.6">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.2" />
+        <Swing damage_type="Cut" damage_factor="4.7" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="katanasimpleguard" name="{=gPXRnvas}Katana Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.09">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="katanasimplegrip" name="{=aj59KGOS}Katana Tsuka" tier="2" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.14">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="katanasimplepommel" name="{=wfK63ZQn}Katana Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.08">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	
+	<!--Rusty Katana-->
+	<CraftingPiece id="rustykatanasimpleblade" name="{=czhTpYo8}Rusty Katana Nagasa" tier="1" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.7">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="1.5" />
+        <Swing damage_type="Cut" damage_factor="3.6" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron2" count="6" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustykatanasimpleguard" name="{=gPXRnvas}Rusty Katana Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.12">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustykatanasimplegrip" name="{=aj59KGOS}Rusty Katana Tsuka" tier="1" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.16">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustykatanasimplepommel" name="{=wfK63ZQn}Rusty Katana Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.12">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent Katana-->
+	<CraftingPiece id="exckatanasimpleblade" name="{=czhTpYo8}Excellent Katana Nagasa" tier="3" piece_type="Blade" mesh="khuzait_blade_6" length="82.7" weight="0.55">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.4" />
+        <Swing damage_type="Cut" damage_factor="4.9" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exckatanasimpleguard" name="{=gPXRnvas}Excellent Katana Tsuba" tier="3" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.08">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="2" />
+      <Materials>
+        <Material id="Iron3" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exckatanasimplegrip" name="{=aj59KGOS}Excellent Katana Tsuka" tier="3" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.12">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exckatanasimplepommel" name="{=wfK63ZQn}Excellent Katana Tsuba" tier="3" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.07">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron3" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Master Katana-->
+	<CraftingPiece id="maskatanasimpleblade" name="{=czhTpYo8}Master Forged Katana Nagasa" tier="5" piece_type="Blade" mesh="khuzait_blade_6" length="82.9" weight="0.50">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.65" />
+        <Swing damage_type="Cut" damage_factor="5.15" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="maskatanasimpleguard" name="{=gPXRnvas}Master Forged Katana Tsuba" tier="5" piece_type="Guard" mesh="khuzait_guard_3" length="1.227" weight="0.07">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="3" />
+      <Materials>
+        <Material id="Iron5" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="maskatanasimplegrip" name="{=aj59KGOS}Master Forged Katana Tsuka" tier="5" piece_type="Handle" mesh="aserai_grip_23" length="26" weight="0.10">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron5" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="maskatanasimplepommel" name="{=wfK63ZQn}Master Forged Katana Tsuba" tier="5" piece_type="Pommel" mesh="aserai_pommel_2" length="4.941" weight="0.06">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron5" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Dragon Katana-->
+	<CraftingPiece id="drakatanasimpleblade" name="{=czhTpYo8}Dragon Katana Nagasa" tier="6" piece_type="Blade" mesh="khuzait_blade_6" length="82.9" weight="0.27">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="3.27" />
+        <Swing damage_type="Cut" damage_factor="7.27" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="72" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="drakatanasimpleguard" name="{=gPXRnvas}Dragon Katana Tsuba" tier="6" piece_type="Guard" mesh="khuzait_guard_3" length="1.227" weight="0.04">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="7" />
+      <Materials>
+        <Material id="Iron5" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="drakatanasimplegrip" name="{=aj59KGOS}Dragon Katana Tsuka" tier="6" piece_type="Handle" mesh="aserai_grip_23" length="26" weight="0.07">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron5" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="drakatanasimplepommel" name="{=wfK63ZQn}Dragon Katana Tsuba" tier="6" piece_type="Pommel" mesh="aserai_pommel_2" length="4.941" weight="0.03">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron5" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Fire Dragon Katana-->
+	<CraftingPiece id="fidrakatanasimpleblade" name="{=czhTpYo8}Fire Dragon Katana Nagasa" tier="6" piece_type="Blade" mesh="khuzait_blade_6" length="83.2" weight="0.24">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="3.57" />
+        <Swing damage_type="Cut" damage_factor="12.97" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="79" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="fidrakatanasimpleguard" name="{=gPXRnvas}Fire Dragon Katana Tsuba" tier="6" piece_type="Guard" mesh="khuzait_guard_3" length="1.229" weight="0.03">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="9" />
+      <Materials>
+        <Material id="Iron5" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="fidrakatanasimplegrip" name="{=aj59KGOS}Fire Dragon Katana Tsuka" tier="6" piece_type="Handle" mesh="aserai_grip_23" length="26" weight="0.06">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron5" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="fidrakatanasimplepommel" name="{=wfK63ZQn}Fire Dragon Katana Tsuba" tier="6" piece_type="Pommel" mesh="aserai_pommel_2" length="4.943" weight="0.02">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron5" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <!--Simple Nodachi-->
+    <CraftingPiece id="nodachisimpleblade" name="{=czhTpYo8}Nodachi Nagasa" tier="2" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.9">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.0" />
+        <Swing damage_type="Cut" damage_factor="4.4" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="nodachisimpleguard" name="{=gPXRnvas}Nodachi Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.13">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="nodachisimplegrip" name="{=aj59KGOS}Nodachi Tsuka" tier="2" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.19">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="nodachisimplepommel" name="{=wfK63ZQn}Nodachi Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.13">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Rusty Nodachi-->
+    <CraftingPiece id="rusnodachisimpleblade" name="{=czhTpYo8}Rusty Nodachi Nagasa" tier="1" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="1.1">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="1.7" />
+        <Swing damage_type="Cut" damage_factor="3.7" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="5" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rusnodachisimpleguard" name="{=gPXRnvas}Rusty Nodachi Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.16">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rusnodachisimplegrip" name="{=aj59KGOS}Rusty Nodachi Tsuka" tier="1" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.22">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rusnodachisimplepommel" name="{=wfK63ZQn}Rusty Nodachi Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.16">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent Nodachi-->
+    <CraftingPiece id="excnodachisimpleblade" name="{=czhTpYo8}Excellent Nodachi Nagasa" tier="3" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.8">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.4" />
+        <Swing damage_type="Cut" damage_factor="4.6" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="19" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excnodachisimpleguard" name="{=gPXRnvas}Excellent Nodachi Tsuba" tier="3" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.12">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excnodachisimplegrip" name="{=aj59KGOS}Excellent Nodachi Tsuka" tier="3" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.17">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excnodachisimplepommel" name="{=wfK63ZQn}Excellent Nodachi Tsuba" tier="3" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.12">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+	<!--Master Forged Nodachi-->
+    <CraftingPiece id="masnodachisimpleblade" name="{=czhTpYo8}Master Forged Nodachi Nagasa" tier="6" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.74">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.6" />
+        <Swing damage_type="Cut" damage_factor="4.8" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="40" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masnodachisimpleguard" name="{=gPXRnvas}Master Forged Nodachi Tsuba" tier="6" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.11">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masnodachisimplegrip" name="{=aj59KGOS}Master Forged Nodachi Tsuka" tier="6" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.15">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masnodachisimplepommel" name="{=wfK63ZQn}Master Forged Nodachi Tsuba" tier="6" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.11">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+	<!--Simple Tanto-->
+    <CraftingPiece id="tantosimpleblade" name="{=czhTpYo8}Tanto Nagasa" tier="2" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.4">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.4" />
+        <Swing damage_type="Cut" damage_factor="3.4" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="5" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="tantosimpleguard" name="{=gPXRnvas}Tanto Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.07">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="tantosimplegrip" name="{=aj59KGOS}Tanto Tsuka" tier="2" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.11">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="tantosimplepommel" name="{=wfK63ZQn}Tanto Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.06">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Rusty Tanto-->
+    <CraftingPiece id="rustantosimpleblade" name="{=czhTpYo8}Rusty Tanto Nagasa" tier="1" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.6">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.0" />
+        <Swing damage_type="Cut" damage_factor="3.0" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustantosimpleguard" name="{=gPXRnvas}Rusty Tanto Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.09">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustantosimplegrip" name="{=aj59KGOS}Rusty Tanto Tsuka" tier="1" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.14">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustantosimplepommel" name="{=wfK63ZQn}Rusty Tanto Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.08">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent Tanto-->
+    <CraftingPiece id="exctantosimpleblade" name="{=czhTpYo8}Excellent Tanto Nagasa" tier="3" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.32">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.6" />
+        <Swing damage_type="Cut" damage_factor="3.6" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exctantosimpleguard" name="{=gPXRnvas}Excellent Tanto Tsuba" tier="3" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.05">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exctantosimplegrip" name="{=aj59KGOS}Excellent Tanto Tsuka" tier="3" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.09">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exctantosimplepommel" name="{=wfK63ZQn}Excellent Tanto Tsuba" tier="3" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.05">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <!--Master Tanto-->
+    <CraftingPiece id="mastantosimpleblade" name="{=czhTpYo8}Master Forged Tanto Nagasa" tier="6" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.27">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.8" />
+        <Swing damage_type="Cut" damage_factor="3.8" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="19" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="mastantosimpleguard" name="{=gPXRnvas}Master Forged Tanto Tsuba" tier="6" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.04">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="mastantosimplegrip" name="{=aj59KGOS}Master Forged Tanto Tsuka" tier="6" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.08">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="mastantosimplepommel" name="{=wfK63ZQn}Master Forged Tanto Tsuba" tier="5" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.04">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <!--Simple Wakizashi-->
+    <CraftingPiece id="wakizashisimpleblade" name="{=czhTpYo8}Wakizashi Nagasa" tier="2" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.5">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.4" />
+        <Swing damage_type="Cut" damage_factor="3.7" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="7" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="wakizashisimpleguard" name="{=gPXRnvas}Wakizashi Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.08">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="wakizashisimplegrip" name="{=aj59KGOS}Wakizashi Tsuka" tier="2" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.12">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="wakizashisimplepommel" name="{=wfK63ZQn}Wakizashi Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.07">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Rusty Wakizashi-->
+    <CraftingPiece id="ruswakizashisimpleblade" name="{=czhTpYo8}Rusty Wakizashi Nagasa" tier="1" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.65">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.0" />
+        <Swing damage_type="Cut" damage_factor="3.3" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="4" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="ruswakizashisimpleguard" name="{=gPXRnvas}Rusty Wakizashi Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.11">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="ruswakizashisimplegrip" name="{=aj59KGOS}Rusty Wakizashi Tsuka" tier="1" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.15">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="ruswakizashisimplepommel" name="{=wfK63ZQn}Rusty Wakizashi Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.10">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent Wakizashi-->
+    <CraftingPiece id="excwakizashisimpleblade" name="{=czhTpYo8}Excellent Wakizashi Nagasa" tier="3" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.43">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.6" />
+        <Swing damage_type="Cut" damage_factor="3.9" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="15" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excwakizashisimpleguard" name="{=gPXRnvas}Excellent Wakizashi Tsuba" tier="3" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.07">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excwakizashisimplegrip" name="{=aj59KGOS}Excellent Wakizashi Tsuka" tier="3" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.10">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excwakizashisimplepommel" name="{=wfK63ZQn}Excellent Wakizashi Tsuba" tier="3" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.06">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+	<!--Master Wakizashi-->
+    <CraftingPiece id="maswakizashisimpleblade" name="{=czhTpYo8}Master Forged Wakizashi Nagasa" tier="6" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.38">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.8" />
+        <Swing damage_type="Cut" damage_factor="4.1" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="22" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="maswakizashisimpleguard" name="{=gPXRnvas}Master Forged Wakizashi Tsuba" tier="6" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.06">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="3" />
+      <Materials>
+        <Material id="Iron5" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="maswakizashisimplegrip" name="{=aj59KGOS}Master Forged Wakizashi Tsuka" tier="6" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.09">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="maswakizashisimplepommel" name="{=wfK63ZQn}Master Forged Wakizashi Tsuba" tier="6" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.05">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="3" />
+      </Materials>
+    </CraftingPiece>
+	<!--Simple tachi-->
+    <CraftingPiece id="tachisimpleblade" name="{=czhTpYo8}Tachi Nagasa" tier="2" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.75">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.1" />
+        <Swing damage_type="Cut" damage_factor="4.6" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="11" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="tachisimpleguard" name="{=gPXRnvas}Tachi Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.11">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="tachisimplegrip" name="{=aj59KGOS}Tachi Tsuka" tier="2" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.16">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="tachisimplepommel" name="{=wfK63ZQn}Tachi Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.10">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Rusty tachi-->
+    <CraftingPiece id="rustachisimpleblade" name="{=czhTpYo8}Rusty Tachi Nagasa" tier="1" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.85">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="1.8" />
+        <Swing damage_type="Cut" damage_factor="3.8" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="5" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustachisimpleguard" name="{=gPXRnvas}Rusty Tachi Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.13">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustachisimplegrip" name="{=aj59KGOS}Rusty Tachi Tsuka" tier="1" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.19">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron1" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustachisimplepommel" name="{=wfK63ZQn}Rusty Tachi Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.14">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent tachi-->
+    <CraftingPiece id="exctachisimpleblade" name="{=czhTpYo8}Excellent Tachi Nagasa" tier="3" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.70">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.3" />
+        <Swing damage_type="Cut" damage_factor="4.8" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="15" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exctachisimpleguard" name="{=gPXRnvas}Excellent Tachi Tsuba" tier="3" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.10">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron3" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exctachisimplegrip" name="{=aj59KGOS}Excellent Tachi Tsuka" tier="3" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.15">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="exctachisimplepommel" name="{=wfK63ZQn}Excellent Tachi Tsuba" tier="3" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.09">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron3" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Master tachi-->
+    <CraftingPiece id="mastachisimpleblade" name="{=czhTpYo8}Master Forged Tachi Nagasa" tier="6" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.65">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.5" />
+        <Swing damage_type="Cut" damage_factor="5.0" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="23" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="mastachisimpleguard" name="{=gPXRnvas}Master Forged Tachi Tsuba" tier="6" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.09">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="3" />
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="mastachisimplegrip" name="{=aj59KGOS}Master Forged Tachi Tsuka" tier="6" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.13">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="mastachisimplepommel" name="{=wfK63ZQn}Master Forged Tachi Tsuba" tier="6" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.08">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron5" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Simple Ninjato-->
+    <CraftingPiece id="ninjatosimpleblade" name="{=czhTpYo8}Ninjato Nagasa" tier="2" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.5">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.2" />
+        <Swing damage_type="Cut" damage_factor="3.5" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="ninjatosimpleguard" name="{=gPXRnvas}Ninjato Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.09">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="ninjatosimplegrip" name="{=aj59KGOS}Ninjato Tsuka" tier="2" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.14">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="ninjatosimplepommel" name="{=wfK63ZQn}Ninjato Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.08">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Rusty Ninjato-->
+    <CraftingPiece id="rusninjatosimpleblade" name="{=czhTpYo8}Rusty Ninjato Nagasa" tier="1" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.65">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="1.8" />
+        <Swing damage_type="Cut" damage_factor="3.0" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="4" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rusninjatosimpleguard" name="{=gPXRnvas}Rusty Ninjato Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.13">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rusninjatosimplegrip" name="{=aj59KGOS}Rusty Ninjato Tsuka" tier="1" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.17">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rusninjatosimplepommel" name="{=wfK63ZQn}Rusty Ninjato Tsuba" tier="1" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.11">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent Ninjato-->
+    <CraftingPiece id="excninjatosimpleblade" name="{=czhTpYo8}Excellent Ninjato Nagasa" tier="3" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.42">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.5" />
+        <Swing damage_type="Cut" damage_factor="3.8" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="14" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excninjatosimpleguard" name="{=gPXRnvas}Excellent Ninjato Tsuba" tier="3" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.07">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excninjatosimplegrip" name="{=aj59KGOS}Excellent Ninjato Tsuka" tier="3" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.12">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excninjatosimplepommel" name="{=wfK63ZQn}Excellent Ninjato Tsuba" tier="3" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.06">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <!--Master Ninjato-->
+    <CraftingPiece id="masninjatosimpleblade" name="{=czhTpYo8}Master Forged Ninjato Nagasa" tier="6" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.32">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="2.97" />
+        <Swing damage_type="Cut" damage_factor="4.77" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="34" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masninjatosimpleguard" name="{=gPXRnvas}Master Forged Ninjato Tsuba" tier="6" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.04">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="5" />
+      <Materials>
+        <Material id="Iron5" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masninjatosimplegrip" name="{=aj59KGOS}Master Forged Ninjato Tsuka" tier="6" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.07">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masninjatosimplepommel" name="{=wfK63ZQn}Master Forged Ninjato Tsuba" tier="6" piece_type="Pommel" mesh="aserai_pommel_2" length="4.841" weight="0.03">
+      <PieceUsages unavailable_usages="ThrowingKnife" />
+      <Materials>
+        <Material id="Iron2" count="2" />
+      </Materials>
+    </CraftingPiece>
+	<!--Simple Naginata-->
+	<CraftingPiece id="naginatablade" name="{=OBeOZ27b}Naginata Toushin" tier="2" piece_type="Blade" mesh="spear_blade_19" length="37.4" weight="0.4408">
+	  <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="2.1" />
+        <Swing damage_type="Cut" damage_factor="3.9" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron4" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="naginataguard" name="{=DVe5SkQA}Naginata Tsuba" tier="2" piece_type="Guard" mesh="spear_guard_1" length="5.7" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron3" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="naginatashaft" name="{=NQb8boHt}Naginata Shaft" tier="2" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1.6">
+      <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="22.9" />
+      <Materials>
+        <Material id="Wood" count="3" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="naginatapommel" name="{=LwM5byQG}Naginata Ishizuki" tier="2" piece_type="Pommel" mesh="spear_pommel_1" length="1.8" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Rusty Naginata-->
+	<CraftingPiece id="rusnaginatablade" name="{=OBeOZ27b}Rusty Naginata Toushin" tier="1" piece_type="Blade" mesh="spear_blade_19" length="37.4" weight="0.5408">
+	  <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="1.6" />
+        <Swing damage_type="Cut" damage_factor="3.4" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron3" count="2" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rusnaginataguard" name="{=DVe5SkQA}Rusty Naginata Tsuba" tier="1" piece_type="Guard" mesh="spear_guard_1" length="5.7" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron2" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="rusnaginatashaft" name="{=NQb8boHt}Rusty Naginata Shaft" tier="1" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1.9">
+      <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="22.9" />
+      <Materials>
+        <Material id="Wood" count="2" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="rusnaginatapommel" name="{=LwM5byQG}Rusty Naginata Ishizuki" tier="1" piece_type="Pommel" mesh="spear_pommel_1" length="1.8" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent Naginata-->
+	<CraftingPiece id="excnaginatablade" name="{=OBeOZ27b}Naginata Toushin" tier="3" piece_type="Blade" mesh="spear_blade_19" length="37.4" weight="0.4008">
+	  <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="2.3" />
+        <Swing damage_type="Cut" damage_factor="4.1" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron5" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excnaginataguard" name="{=DVe5SkQA}Naginata Tsuba" tier="3" piece_type="Guard" mesh="spear_guard_1" length="5.7" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron4" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="excnaginatashaft" name="{=NQb8boHt}Naginata Shaft" tier="3" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1.45">
+      <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="22.9" />
+      <Materials>
+        <Material id="Wood" count="5" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="excnaginatapommel" name="{=LwM5byQG}Naginata Ishizuki" tier="3" piece_type="Pommel" mesh="spear_pommel_1" length="1.8" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron3" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Master Forged Naginata-->
+	<CraftingPiece id="masnaginatablade" name="{=OBeOZ27b}Master Forged Naginata Toushin" tier="6" piece_type="Blade" mesh="spear_blade_19" length="37.4" weight="0.3708">
+	  <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="2.6" />
+        <Swing damage_type="Cut" damage_factor="4.27" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron5" count="3" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masnaginataguard" name="{=DVe5SkQA}Master Forged Naginata Tsuba" tier="6" piece_type="Guard" mesh="spear_guard_1" length="5.7" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="masnaginatashaft" name="{=NQb8boHt}Master Forged Naginata Shaft" tier="6" piece_type="Handle" mesh="spear_handle_15" length="170" weight="1.27">
+      <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="22.9" />
+      <Materials>
+        <Material id="Wood" count="12" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="masnaginatapommel" name="{=LwM5byQG}Master Forged Naginata Ishizuki" tier="6" piece_type="Pommel" mesh="spear_pommel_1" length="1.8" weight="0">
+      <PieceUsages unavailable_usages="" />
+      <Materials>
+        <Material id="Iron2" count="4" />
+      </Materials>
+    </CraftingPiece>
+    <!--Simple Yari-->
+    <CraftingPiece id="yariblade" name="{=S75vUGzK}Yari Ho" tier="2" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.4" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="2.7" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron3" count="3" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="yarihandle" name="{=Nhhmj7bz}Yari Shaft" tier="2" piece_type="Handle" mesh="spear_handle_7" length="295" weight="2.5" excluded_item_usage_features="long" CraftingCost="150">
+      <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="39.5" />
+      <Materials>
+        <Material id="Wood" count="2" />
+      </Materials>
+    </CraftingPiece>
+	<!--Rusty Yari-->
+    <CraftingPiece id="rusyariblade" name="{=S75vUGzK}Rusty Yari Ho" tier="1" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.5" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="2.3" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron2" count="3" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="rusyarihandle" name="{=Nhhmj7bz}Rusty Yari Shaft" tier="1" piece_type="Handle" mesh="spear_handle_7" length="295" weight="2.7" excluded_item_usage_features="long" CraftingCost="150">
+      <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="39.5" />
+      <Materials>
+        <Material id="Wood" count="1" />
+      </Materials>
+    </CraftingPiece>
+	<!--Excellent Yari-->
+    <CraftingPiece id="excyariblade" name="{=S75vUGzK}Excellent Yari Ho" tier="3" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.3" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="3" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron3" count="5" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="excyarihandle" name="{=Nhhmj7bz}Excellent Yari Shaft" tier="3" piece_type="Handle" mesh="spear_handle_7" length="295" weight="2.2" excluded_item_usage_features="long" CraftingCost="150">
+      <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="39.5" />
+      <Materials>
+        <Material id="Wood" count="3" />
+      </Materials>
+    </CraftingPiece>
+	<!--Master Forged Yari-->
+    <CraftingPiece id="masyariblade" name="{=S75vUGzK}Master Forged Yari Ho" tier="6" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.22" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="3.27" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron4" count="6" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="masyarihandle" name="{=Nhhmj7bz}Master Forged Yari Shaft" tier="6" piece_type="Handle" mesh="spear_handle_7" length="297" weight="2.0" excluded_item_usage_features="long" CraftingCost="150">
+      <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
+      <BuildData piece_offset="39.5" />
+      <Materials>
+        <Material id="Wood" count="4" />
+      </Materials>
+    </CraftingPiece>
+  <CraftingPiece id="tetsubo_head_1" name="{=FyaygeEx}Simple Tetsubo Head" tier="5" piece_type="Blade" mesh="mace_head_6" length="20" weight="1.3" full_scale="true" excluded_item_usage_features="thrust">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="14" />
+    </Materials><!--YFy0t1NY -->
+  </CraftingPiece>
+    <CraftingPiece id="tetsubo_head_1_Rusty" name="{=FyaygeEx}Rusty Tetsubo Head" tier="5" piece_type="Blade" mesh="mace_head_6" length="20" weight="1.5" full_scale="true" excluded_item_usage_features="thrust">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="5.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron" count="14" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="tetsubo_craft_1_handle" name="{=1T0XBYld}Simple Tetsubo Handle" tier="5" piece_type="Handle" mesh="axe_craft_1_handle" length="157.6" weight="0.5" item_holster_pos_shift="0,0,-0.1" CraftingCost="75">
+    <PieceUsages unavailable_usages="" />
+    <BuildData piece_offset="37.408" next_piece_offset="1.42" />
+    <Materials>
+      <Material id="Wood" count="3" />
+      <Material id="Iron2" count="33" />
+    </Materials>
+  </CraftingPiece>
+      <CraftingPiece id="tetsubo_craft_1_handle_Rusty" name="{=1T0XBYld}Rusty Tetsubo Handle" tier="5" piece_type="Handle" mesh="axe_craft_1_handle" length="157.6" weight="0.6" item_holster_pos_shift="0,0,-0.1" CraftingCost="75">
+    <PieceUsages unavailable_usages="" />
+    <BuildData piece_offset="37.408" next_piece_offset="1.42" />
+    <Materials>
+      <Material id="Wood" count="3" />
+      <Material id="Iron" count="33" />
+    </Materials>
+  </CraftingPiece>
+  
+      <CraftingPiece id="tetsubo_craft_1_handle_Excellent" name="{=1T0XBYld}Excellent Tetsubo Handle" tier="5" piece_type="Handle" mesh="axe_craft_1_handle" length="157.6" weight="0.4" item_holster_pos_shift="0,0,-0.1" CraftingCost="75">
+    <PieceUsages unavailable_usages="" />
+    <BuildData piece_offset="37.408" next_piece_offset="1.42" />
+    <Materials>
+      <Material id="Wood" count="3" />
+      <Material id="Iron3" count="33" />
+    </Materials>
+	 </CraftingPiece>
+ <CraftingPiece id="tetsubo_head_1_Excellent" name="{=FyaygeEx}Excellent Tetsubo Head" tier="5" piece_type="Blade" mesh="mace_head_6" length="20" weight="1.1" full_scale="true" excluded_item_usage_features="thrust">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="6.3" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron4" count="14" />
+    </Materials>
+	 </CraftingPiece>
+	 <CraftingPiece id="tetsubo_craft_1_handle_Master" name="{=1T0XBYld}Master Tetsubo Handle" tier="5" piece_type="Handle" mesh="axe_craft_1_handle" length="157.6" weight="0.3" item_holster_pos_shift="0,0,-0.1" CraftingCost="75">
+    <PieceUsages unavailable_usages="" />
+    <BuildData piece_offset="37.408" next_piece_offset="1.42" />
+    <Materials>
+      <Material id="Wood" count="3" />
+      <Material id="Iron4" count="33" />
+    </Materials>
+	 </CraftingPiece>
+ <CraftingPiece id="tetsubo_head_1_Master" name="{=FyaygeEx}Master Tetsubo Head" tier="5" piece_type="Blade" mesh="mace_head_6" length="20" weight="0.8" full_scale="true" excluded_item_usage_features="thrust">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_mace_a">
+      <Swing damage_type="Blunt" damage_factor="6.6" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="14" />
+    </Materials>
+	 </CraftingPiece>
+	 
+	 <CraftingPiece id="kunai_blade_1" name="{=ykTYTbek}Throwing Knife Blade" tier="2" piece_type="Blade" mesh="dagger_blade_11" length="30" weight="0.475">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
+      <Thrust damage_type="Pierce" damage_factor="4.4" />
+      <Swing damage_type="Cut" damage_factor="5.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="23" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="kunai_guard_1" name="{=ZfEiEOsK}Southern Crowned Dagger Guard" tier="1" piece_type="Guard" mesh="aserai_dagger_guard_4" culture="Culture.battania" length="4.6" weight="0.097">
+    <PieceUsages unavailable_usages="" />
+    <BuildData next_piece_offset="0.6" />
+    <StatContributions armor_bonus="0" />
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="kunai_grip_1" name="{=6HybYLtu}Rough Leather Covered Northern One Handed Grip" tier="2" piece_type="Handle" mesh="sturgian_grip_5" culture="Culture.sturgia" length="15.15" weight="0.12">
+    <PieceUsages unavailable_usages="TwoHandedSword" />
+    <BuildData piece_offset="-0.07" next_piece_offset="0.1" previous_piece_offset="0.3" />
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+   <CraftingPiece id="kunai_pommel_1" name="{=faZasq1G}Eastern Ring Pommel" tier="1" piece_type="Pommel" mesh="khuzait_pommel_1" culture="Culture.khuzait" length="6.588" weight="0.12">
+    <PieceUsages unavailable_usages="" />
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_guard_2" name="{=EbucFMZq}Broad Concave Dagger Guard" tier="2" piece_type="Guard" mesh="sturgian_dagger_guard_5" culture="Culture.battania" length="0.7" weight="0.097">
+    <PieceUsages unavailable_usages="" />
+    <BuildData next_piece_offset="0.6" />
+    <StatContributions armor_bonus="2" />
+    <Materials>
+      <Material id="Iron3" count="23" />
+    </Materials>
+  </CraftingPiece>
+  <CraftingPiece id="kunai_grip_2" name="{=OlUuoUBe}Eastern Iron Bound Fine Leather Grip" tier="3" piece_type="Handle" mesh="khuzait_grip_2" culture="Culture.khuzait" length="15.1" weight="0.1">
+    <PieceUsages unavailable_usages="TwoHandedSword" />
+    <BuildData piece_offset="-0.04" previous_piece_offset="0.2" next_piece_offset="0.1" />
+    <Materials>
+      <Material id="Iron3" count="24" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_blade_2" name="{=5o5DaSHZ}Broad Dagger Blade" tier="2" piece_type="Blade" mesh="dagger_blade_13" length="29" weight="0.475">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_1" holster_mesh_length="35.8">
+      <Thrust damage_type="Pierce" damage_factor="4.4" />
+      <Swing damage_type="Cut" damage_factor="5.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="24" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_guard_3" name="{=ZfEiEOsK}Southern Crowned Dagger Guard" tier="1" piece_type="Guard" mesh="aserai_dagger_guard_4" culture="Culture.battania" length="4.6" weight="0.097">
+    <PieceUsages unavailable_usages="" />
+    <BuildData next_piece_offset="0.6" />
+    <StatContributions armor_bonus="0" />
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_grip_3" name="{=lLZfWq7i}Bottleneck Desert Grip" tier="5" piece_type="Handle" mesh="aserai_grip_8" culture="Culture.aserai" length="15" weight="0.120">
+    <PieceUsages unavailable_usages="TwoHandedSword" />
+    <BuildData piece_offset="0" previous_piece_offset="0.1" next_piece_offset="0.1" />
+    <Materials>
+      <Material id="Iron5" count="34" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_pommel_2" name="{=aalvbENh}Desert Pommel" tier="3" piece_type="Pommel" mesh="aserai_pommel_3" culture="Culture.aserai" length="6.875" weight="0.12">
+    <PieceUsages unavailable_usages="" />
+    <Materials>
+      <Material id="Iron3" count="23" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_guard_4" name="{=PZYq0hBO}Layered Bronze Dagger Guard" tier="2" piece_type="Guard" mesh="battania_guard_8" culture="Culture.battania" length="2.1" weight="0.097">
+    <PieceUsages unavailable_usages="" />
+    <BuildData next_piece_offset="0.6" />
+    <StatContributions armor_bonus="0" />
+    <Materials>
+      <Material id="Iron3" count="23" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_guard_5" name="{=PjMeZcwO}Lipped Dagger Guard" tier="2" piece_type="Guard" mesh="empire_dagger_guard_3" culture="Culture.battania" length="2.7" weight="0.097" is_default="true">
+    <PieceUsages unavailable_usages="" />
+    <BuildData next_piece_offset="0.6" />
+    <StatContributions armor_bonus="0" />
+    <Materials>
+      <Material id="Iron3" count="24" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_grip_4" name="{=lYEaqL9y}Bound Fur One Handed Grip" tier="1" piece_type="Handle" mesh="sturgian_grip_14" culture="Culture.sturgia" length="15.3" weight="0.20">
+    <PieceUsages unavailable_usages="TwoHandedSword" />
+    <BuildData piece_offset="-0.14" previous_piece_offset="0.3" next_piece_offset="0.1" />
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_grip_5" name="{=yUyJ39ot}Steel Bound Spatha Grip" tier="4" piece_type="Handle" mesh="empire_grip_2" culture="Culture.empire" length="17" weight="0.15">
+    <PieceUsages unavailable_usages="TwoHandedSword" />
+    <BuildData piece_offset="-0.79" next_piece_offset="0" previous_piece_offset="0.9" />
+    <Materials>
+      <Material id="Iron5" count="33" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_pommel_3" name="{=V0khEGns}Flat Pommel" tier="1" piece_type="Pommel" mesh="cleaver_pommel_4" length="1.07" weight="0.08">
+    <PieceUsages unavailable_usages="" />
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_pommel_4" name="{=aZp1ur9Q}Chalice Pommel" tier="2" piece_type="Pommel" mesh="empire_pommel_1" culture="Culture.empire" length="2.2" weight="0.111">
+    <PieceUsages unavailable_usages="" />
+    <BuildData next_piece_offset="0.2" />
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_blade_3" name="{=TLtaGEcB}Wide Makhaira Blade" tier="2" piece_type="Blade" mesh="dagger_blade_10" length="30" weight="0.475">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="23" />
+    </Materials>
+  </CraftingPiece>
+    <CraftingPiece id="kunai_blade_4" name="{=HysmKS5a}Ridged Wide Dagger Blade" tier="1" piece_type="Blade" mesh="dagger_blade_12" length="25.2" weight="0.475">
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_3" holster_mesh_length="35.8">
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.5" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron3" count="13" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="nagamakisimpleblade" name="{=czhTpYo8}Nagamaki Nagasa" tier="2" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.6">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="1" />
+        <Swing damage_type="Cut" damage_factor="5.5" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="nagamakisimpleguard" name="{=gPXRnvas}Nagamaki Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.09">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="nagamakisimplegrip" name="{=aj59KGOS}Nagamaki Tsuka" tier="2" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.14">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="4" />
+      </Materials>
+    </CraftingPiece>
+	
+	<CraftingPiece id="rustynagamakisimpleblade" name="{=czhTpYo8}Rusty Nagamaki Nagasa" tier="1" piece_type="Blade" mesh="khuzait_blade_6" length="82.5" weight="0.7">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="0.8" />
+        <Swing damage_type="Cut" damage_factor="4.5" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron2" count="9" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustynagamakisimpleguard" name="{=gPXRnvas}Rusty Nagamaki Tsuba" tier="1" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.12">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="1" />
+      <Materials>
+        <Material id="Iron1" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="rustynagamakisimplegrip" name="{=aj59KGOS}Rusty Nagamaki Tsuka" tier="1" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.16">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron2" count="4" />
+      </Materials>
+    </CraftingPiece>
+    
+	<CraftingPiece id="excnagamakisimpleblade" name="{=czhTpYo8}Excellent Nagamaki Nagasa" tier="3" piece_type="Blade" mesh="khuzait_blade_6" length="82.7" weight="0.55">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="1.2" />
+        <Swing damage_type="Cut" damage_factor="5.7" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron3" count="10" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excnagamakisimpleguard" name="{=gPXRnvas}Excellent Nagamaki Tsuba" tier="3" piece_type="Guard" mesh="khuzait_guard_3" length="1.207" weight="0.08">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="2" />
+      <Materials>
+        <Material id="Iron3" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="excnagamakisimplegrip" name="{=aj59KGOS}Excellent Nagamaki Tsuka" tier="3" piece_type="Handle" mesh="aserai_grip_23" length="25" weight="0.12">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron3" count="4" />
+      </Materials>
+    </CraftingPiece>
+    
+	<CraftingPiece id="masnagamakisimpleblade" name="{=czhTpYo8}Master Forged Nagamaki Nagasa" tier="5" piece_type="Blade" mesh="khuzait_blade_6" length="82.9" weight="0.50">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+        <Thrust damage_type="Pierce" damage_factor="1.55" />
+        <Swing damage_type="Cut" damage_factor="6" />
+      </BladeData>
+      <Flags>
+        <Flag name="Civilian" type="ItemFlags" />
+      </Flags>
+      <Materials>
+        <Material id="Iron5" count="11" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masnagamakisimpleguard" name="{=gPXRnvas}Master Forged Nagamaki Tsuba" tier="5" piece_type="Guard" mesh="khuzait_guard_3" length="1.227" weight="0.07">
+      <PieceUsages unavailable_usages="" />
+      <BuildData next_piece_offset="0.4" />
+      <StatContributions armor_bonus="3" />
+      <Materials>
+        <Material id="Iron5" count="1" />
+      </Materials>
+    </CraftingPiece>
+    <CraftingPiece id="masnagamakisimplegrip" name="{=aj59KGOS}Master Forged Nagamaki Tsuka" tier="5" piece_type="Handle" mesh="aserai_grip_23" length="26" weight="0.10">
+      <PieceUsages unavailable_usages="" />
+      <BuildData piece_offset="-0.95" previous_piece_offset="0.2" next_piece_offset="0" />
+      <Materials>
+        <Material id="Iron5" count="5" />
+      </Materials>
+    </CraftingPiece>
+	
+    <CraftingPiece id="kamayariblade" name="{=S75vUGzK}Kamayari Ho" tier="2" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.4" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="2.7" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron3" count="4" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="ruskamayariblade" name="{=S75vUGzK}Rusty Kamayari Ho" tier="1" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.5" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="2.3" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron2" count="4" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="exckamayariblade" name="{=S75vUGzK}Excellent Kamayari Ho" tier="3" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.3" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="3" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron3" count="6" />
+      </Materials>
+    </CraftingPiece>
+	<CraftingPiece id="maskamayariblade" name="{=S75vUGzK}Master Forged Kamayari Ho" tier="6" piece_type="Blade" mesh="spear_blade_6" length="84.4" weight="0.22" excluded_item_usage_features="swing">
+      <PieceUsages unavailable_usages="" />
+      <BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
+        <Thrust damage_type="Pierce" damage_factor="3.27" />
+      </BladeData>
+      <Materials>
+        <Material id="Iron4" count="7" />
+      </Materials>
+    </CraftingPiece>
+</CraftingPieces>
+	

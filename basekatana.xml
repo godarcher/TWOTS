@@ -1,0 +1,2476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <!--KATANAS-->
+  <CraftedItem id="basekatana"
+               name="{=oQmUlQWp}Simple Katana "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="katanasimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="katanasimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="katanasimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="katanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="rustykatana"
+               name="{=oQmUlQWp}Rusty Katana "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="rustykatanasimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="rustykatanasimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="rustykatanasimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="rustykatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="exckatana"
+               name="{=oQmUlQWp}Excellent Katana "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="exckatanasimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="exckatanasimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="exckatanasimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="exckatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="maskatana"
+               name="{=oQmUlQWp}Master Forged Katana "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="maskatanasimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="maskatanasimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="maskatanasimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="maskatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="drakatana"
+               name="{=oQmUlQWp}Dragon Katana "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="drakatanasimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="drakatanasimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="drakatanasimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="drakatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="fidrakatana"
+               name="{=oQmUlQWp}Fire Dragon Katana "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="fidrakatanasimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="fidrakatanasimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="fidrakatanasimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="fidrakatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem> 
+  <CraftedItem id="basenodachi"
+               name="{=oQmUlQWp}Simple Nodachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="nodachisimpleblade"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="nodachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="nodachisimplegrip"
+             Type="Handle"
+             scale_factor="190" />
+      <Piece id="nodachisimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="rusnodachi"
+               name="{=oQmUlQWp}Rusty Nodachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="rusnodachisimpleblade"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="rusnodachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="rusnodachisimplegrip"
+             Type="Handle"
+             scale_factor="190" />
+      <Piece id="rusnodachisimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="excnodachi"
+               name="{=oQmUlQWp}Excellent Nodachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="excnodachisimpleblade"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="excnodachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="excnodachisimplegrip"
+             Type="Handle"
+             scale_factor="190" />
+      <Piece id="excnodachisimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="masnodachi"
+               name="{=oQmUlQWp}Master Forged Nodachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="masnodachisimpleblade"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="masnodachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="masnodachisimplegrip"
+             Type="Handle"
+             scale_factor="190" />
+      <Piece id="masnodachisimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="basetanto"
+               name="{=oQmUlQWp}Simple Tanto "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="tantosimpleblade"
+             Type="Blade"
+             scale_factor="50" />
+      <Piece id="tantosimpleguard"
+             Type="Guard"
+             scale_factor="50" />
+      <Piece id="tantosimplegrip"
+             Type="Handle"
+             scale_factor="50" />
+      <Piece id="tantosimplepommel"
+             Type="Pommel"
+             scale_factor="50" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="rustanto"
+               name="{=oQmUlQWp}Rusty Tanto "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="rustantosimpleblade"
+             Type="Blade"
+             scale_factor="50" />
+      <Piece id="rustantosimpleguard"
+             Type="Guard"
+             scale_factor="50" />
+      <Piece id="rustantosimplegrip"
+             Type="Handle"
+             scale_factor="50" />
+      <Piece id="rustantosimplepommel"
+             Type="Pommel"
+             scale_factor="50" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="exctanto"
+               name="{=oQmUlQWp}Excellent Tanto "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="exctantosimpleblade"
+             Type="Blade"
+             scale_factor="50" />
+      <Piece id="exctantosimpleguard"
+             Type="Guard"
+             scale_factor="50" />
+      <Piece id="exctantosimplegrip"
+             Type="Handle"
+             scale_factor="50" />
+      <Piece id="exctantosimplepommel"
+             Type="Pommel"
+             scale_factor="50" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="mastanto"
+               name="{=oQmUlQWp}Master Forged Tanto "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="mastantosimpleblade"
+             Type="Blade"
+             scale_factor="50" />
+      <Piece id="mastantosimpleguard"
+             Type="Guard"
+             scale_factor="50" />
+      <Piece id="mastantosimplegrip"
+             Type="Handle"
+             scale_factor="50" />
+      <Piece id="mastantosimplepommel"
+             Type="Pommel"
+             scale_factor="50" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="basewakizashi"
+               name="{=oQmUlQWp}Simple Wakizashi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="wakizashisimpleblade"
+             Type="Blade"
+             scale_factor="72" />
+      <Piece id="wakizashisimpleguard"
+             Type="Guard"
+             scale_factor="62" />
+      <Piece id="wakizashisimplegrip"
+             Type="Handle"
+             scale_factor="66" />
+      <Piece id="wakizashisimplepommel"
+             Type="Pommel"
+             scale_factor="66" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="maswakizashi"
+               name="{=oQmUlQWp}Master Forged Wakizashi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="maswakizashisimpleblade"
+             Type="Blade"
+             scale_factor="72" />
+      <Piece id="maswakizashisimpleguard"
+             Type="Guard"
+             scale_factor="62" />
+      <Piece id="maswakizashisimplegrip"
+             Type="Handle"
+             scale_factor="66" />
+      <Piece id="maswakizashisimplepommel"
+             Type="Pommel"
+             scale_factor="66" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="ruswakizashi"
+               name="{=oQmUlQWp}Rusty Wakizashi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="ruswakizashisimpleblade"
+             Type="Blade"
+             scale_factor="72" />
+      <Piece id="ruswakizashisimpleguard"
+             Type="Guard"
+             scale_factor="62" />
+      <Piece id="ruswakizashisimplegrip"
+             Type="Handle"
+             scale_factor="66" />
+      <Piece id="ruswakizashisimplepommel"
+             Type="Pommel"
+             scale_factor="66" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="excwakizashi"
+               name="{=oQmUlQWp}Excellent Wakizashi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="excwakizashisimpleblade"
+             Type="Blade"
+             scale_factor="72" />
+      <Piece id="excwakizashisimpleguard"
+             Type="Guard"
+             scale_factor="62" />
+      <Piece id="excwakizashisimplegrip"
+             Type="Handle"
+             scale_factor="66" />
+      <Piece id="excwakizashisimplepommel"
+             Type="Pommel"
+             scale_factor="66" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="basetachi"
+               name="{=oQmUlQWp}Simple Tachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="tachisimpleblade"
+             Type="Blade"
+             scale_factor="130" />
+      <Piece id="tachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="tachisimplegrip"
+             Type="Handle"
+             scale_factor="140" />
+      <Piece id="tachisimplepommel"
+             Type="Pommel"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem> 
+  <CraftedItem id="rustachi"
+               name="{=oQmUlQWp}Rusty Tachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="rustachisimpleblade"
+             Type="Blade"
+             scale_factor="130" />
+      <Piece id="rustachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="rustachisimplegrip"
+             Type="Handle"
+             scale_factor="140" />
+      <Piece id="rustachisimplepommel"
+             Type="Pommel"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem> 
+  <CraftedItem id="exctachi"
+               name="{=oQmUlQWp}Excellent Tachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="exctachisimpleblade"
+             Type="Blade"
+             scale_factor="130" />
+      <Piece id="exctachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="exctachisimplegrip"
+             Type="Handle"
+             scale_factor="140" />
+      <Piece id="exctachisimplepommel"
+             Type="Pommel"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem> 
+  <CraftedItem id="mastachi"
+               name="{=oQmUlQWp}Master Forged Tachi "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="mastachisimpleblade"
+             Type="Blade"
+             scale_factor="130" />
+      <Piece id="mastachisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="mastachisimplegrip"
+             Type="Handle"
+             scale_factor="140" />
+      <Piece id="mastachisimplepommel"
+             Type="Pommel"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem> 
+  <CraftedItem id="baseninjato"
+               name="{=oQmUlQWp}Simple Ninjato "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="ninjatosimpleblade"
+             Type="Blade"
+             scale_factor="78" />
+      <Piece id="ninjatosimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="ninjatosimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="ninjatosimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="rusninjato"
+               name="{=oQmUlQWp}Rusty Ninjato "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="rusninjatosimpleblade"
+             Type="Blade"
+             scale_factor="78" />
+      <Piece id="rusninjatosimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="rusninjatosimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="rusninjatosimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="excninjato"
+               name="{=oQmUlQWp}Excellent Ninjato "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="excninjatosimpleblade"
+             Type="Blade"
+             scale_factor="78" />
+      <Piece id="excninjatosimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="excninjatosimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="excninjatosimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="masninjato"
+               name="{=oQmUlQWp}Master Forged Ninjato "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="masninjatosimpleblade"
+             Type="Blade"
+             scale_factor="78" />
+      <Piece id="masninjatosimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="masninjatosimplegrip"
+             Type="Handle"
+             scale_factor="120" />
+      <Piece id="masninjatosimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="basenaginata"
+               name="{=oQmUlQWp}Simple Naginata "
+               crafting_template="naginatas">
+    <Pieces>
+      <Piece id="naginatablade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="naginataguard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="naginatashaft"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="naginatapommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="rusnaginata"
+               name="{=oQmUlQWp}Rusty Naginata "
+               crafting_template="naginatas">
+    <Pieces>
+      <Piece id="rusnaginatablade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="rusnaginataguard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="rusnaginatashaft"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="rusnaginatapommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="excnaginata"
+               name="{=oQmUlQWp}Excellent Naginata "
+               crafting_template="naginatas">
+    <Pieces>
+      <Piece id="excnaginatablade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="excnaginataguard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="excnaginatashaft"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="excnaginatapommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="masnaginata"
+               name="{=oQmUlQWp}Master Forged Naginata "
+               crafting_template="naginatas">
+    <Pieces>
+      <Piece id="masnaginatablade"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="masnaginataguard"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="masnaginatashaft"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="masnaginatapommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="simpleyari"
+               name="{=WrlIl4nW}Simple Yari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="yariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="yarihandle"
+             Type="Handle"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="russimpleyari"
+               name="{=WrlIl4nW}Rusty Yari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="rusyariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="rusyarihandle"
+             Type="Handle"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="excsimpleyari"
+               name="{=WrlIl4nW}Excellent Yari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="excyariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="excyarihandle"
+             Type="Handle"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="massimpleyari"
+               name="{=WrlIl4nW}Master Forged Yari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="masyariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="masyarihandle"
+             Type="Handle"
+             scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  <Item id="pbo_staff"
+        name="{=yy7RvQKN}Practice Bo Staff"
+        is_merchandise="true"
+        body_name="bo_spear_b"
+        recalculate_body="true"
+        mesh="axe_craft_32_handle"
+        using_tableau="true"
+        value="20"
+        subtype="two_handed_wpn"
+        weight="1"
+        difficulty="0"
+        appearance="1"
+        Type="Polearm"
+        item_holsters="polearm_back:polearm_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="TwoHandedPolearm"
+              weapon_balance="100"
+              thrust_speed="100"
+              speed_rating="100"
+              physics_material="wood_weapon"
+              weapon_length="100"
+              position="0.0, 0.0, 0.3"			  
+              swing_damage="15"
+              thrust_damage="6"
+              swing_damage_type="Blunt"
+              thrust_damage_type="Blunt"
+              item_usage="polearm_block_swing_thrust">
+        <WeaponFlags MeleeWeapon="true"
+                     PenaltyWithShield="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     WideGrip="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           DoNotScaleBodyAccordingToWeaponLength="true" />
+  </Item>
+  <Item id="rbo_staff"
+        name="{=yy7RvQKN}Battlefield Bo Staff"
+        is_merchandise="true"
+        body_name="bo_spear_b"
+        recalculate_body="true"
+        mesh="axe_craft_32_handle"
+        using_tableau="true"
+        value="200"
+        subtype="two_handed_wpn"
+        weight="2"
+        difficulty="0"
+        appearance="1"
+        Type="Polearm"
+        item_holsters="polearm_back:polearm_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="TwoHandedPolearm"
+              weapon_balance="110"
+              thrust_speed="110"
+              speed_rating="110"
+              physics_material="wood_weapon"
+              weapon_length="100"
+              position="0.0, 0.0, 0.3"			  
+              swing_damage="27"
+              thrust_damage="7"
+              swing_damage_type="Blunt"
+              thrust_damage_type="Blunt"
+              item_usage="polearm_block_swing_thrust">
+        <WeaponFlags MeleeWeapon="true"
+                     PenaltyWithShield="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     WideGrip="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           DoNotScaleBodyAccordingToWeaponLength="true" />
+  </Item>
+  <Item id="excbo_staff"
+        name="{=yy7RvQKN}Excellent Bo Staff"
+        is_merchandise="true"
+        body_name="bo_spear_b"
+        recalculate_body="true"
+        mesh="axe_craft_32_handle"
+        using_tableau="true"
+        value="500"
+        subtype="two_handed_wpn"
+        weight="1.8"
+        difficulty="0"
+        appearance="1"
+        Type="Polearm"
+        item_holsters="polearm_back:polearm_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="TwoHandedPolearm"
+              weapon_balance="117"
+              thrust_speed="117"
+              speed_rating="117"
+              physics_material="wood_weapon"
+              weapon_length="100"
+              position="0.0, 0.0, 0.3"			  
+              swing_damage="35"
+              thrust_damage="9"
+              swing_damage_type="Blunt"
+              thrust_damage_type="Blunt"
+              item_usage="polearm_block_swing_thrust">
+        <WeaponFlags MeleeWeapon="true"
+                     PenaltyWithShield="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     WideGrip="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           DoNotScaleBodyAccordingToWeaponLength="true" />
+  </Item>
+  <Item id="legbo_staff"
+        name="{=yy7RvQKN}Legendary Bo Staff"
+        is_merchandise="true"
+        body_name="bo_spear_b"
+        recalculate_body="true"
+        mesh="axe_craft_32_handle"
+        using_tableau="true"
+        value="2500"
+        subtype="two_handed_wpn"
+        weight="1.27"
+        difficulty="0"
+        appearance="1"
+        Type="Polearm"
+        item_holsters="polearm_back:polearm_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="TwoHandedPolearm"
+              weapon_balance="127"
+              thrust_speed="127"
+              speed_rating="127"
+              physics_material="wood_weapon"
+              weapon_length="100"
+              position="0.0, 0.0, 0.3"			  
+              swing_damage="54"
+              thrust_damage="17"
+              swing_damage_type="Blunt"
+              thrust_damage_type="Blunt"
+              item_usage="polearm_block_swing_thrust">
+        <WeaponFlags MeleeWeapon="true"
+                     PenaltyWithShield="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     WideGrip="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           DoNotScaleBodyAccordingToWeaponLength="true" />
+  </Item>
+   <!--Tetsubos-->
+  <CraftedItem id="basetetsubo"
+               name="{=bNABNs8O}Simple Tetsubo "
+               crafting_template="TwoHandedTetsubo">
+    <Pieces>
+      <Piece id="tetsubo_head_1"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="tetsubo_craft_1_handle"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+    <CraftedItem id="rustytetsubo"
+               name="{=bNABNs8O}Rusty Tetsubo "
+               crafting_template="TwoHandedTetsubo">
+    <Pieces>
+      <Piece id="tetsubo_head_1_Rusty"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="tetsubo_craft_1_handle_Rusty"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+
+  <CraftedItem id="extetsubo"
+               name="{=bNABNs8O}Excellent Tetsubo "
+               crafting_template="TwoHandedTetsubo">
+    <Pieces>
+      <Piece id="tetsubo_head_1_Excellent"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="tetsubo_craft_1_handle_Excellent"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+    <CraftedItem id="mastetsubo"
+               name="{=bNABNs8O}Master Forged Tetsubo "
+               crafting_template="TwoHandedTetsubo">
+    <Pieces>
+      <Piece id="tetsubo_head_1_Master"
+             Type="Blade"
+             scale_factor="150" />
+      <Piece id="tetsubo_craft_1_handle_Master"
+             Type="Handle"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+ <!--Yumis-->
+   <Item id="training_yumi"
+        name="{=cmuMaYGR}Practice Yumi"
+        body_name="bo_composite_longbow_a"
+        mesh="longbow_a"
+        subtype="bow"
+		is_merchandise="true"
+        weight="0.5"
+        difficulty="0"
+        appearance="1"
+        Type="Bow"
+        item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="84"
+              speed_rating="80"
+              missile_speed="84"
+              weapon_length="120"
+              accuracy="100"
+              thrust_damage="30"
+              thrust_damage_type="Pierce"
+              item_usage="long_bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+	 <Item id="cheap_yumi"
+        name="{=mTWvG1xz}Cheap Yumi"
+        body_name="bo_composite_longbow_e"
+        mesh="longbow_e"
+		is_merchandise="true"
+        weight="0.4"
+        difficulty="15"
+        appearance="1"
+        Type="Bow"
+        item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="75"
+              speed_rating="86"
+              missile_speed="65"
+              weapon_length="113"
+              accuracy="83"
+              thrust_damage="42"
+              thrust_damage_type="Pierce"
+              item_usage="long_bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="base_yumi"
+        name="{=w6sFabVp}Simple Yumi"
+        body_name="bo_composite_longbow_g"
+        mesh="longbow_h"
+        is_merchandise="true"
+        weight="0.5"
+        difficulty="30"
+        appearance="0.6"
+        Type="Bow"
+        item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="98"
+              speed_rating="89"
+              missile_speed="73"
+              weapon_length="115"
+              accuracy="94"
+              thrust_damage="54"
+              thrust_damage_type="Pierce"
+              item_usage="long_bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+	<Item id="excellent_yumi"
+        name="{=RcCtV0aS}Excellent Yumi"
+        body_name="bo_composite_longbow_a"
+        mesh="longbow_d"
+		is_merchandise="true"
+        weight="0.5"
+        difficulty="50"
+        appearance="0.3"
+        Type="Bow"
+        item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="110"
+              speed_rating="91"
+              missile_speed="76"
+              weapon_length="115"
+              accuracy="92"
+              thrust_damage="60"
+              thrust_damage_type="Pierce"
+              item_usage="long_bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="mas_yumi"
+        name="{=WRqYWspc}Master made Yumi"
+        body_name="bo_composite_longbow_g"
+        mesh="longbow_j"
+		is_merchandise="true"
+        weight="0.8"
+        difficulty="70"
+        appearance="0.1"
+        Type="Bow"
+        item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="110"
+              speed_rating="91"
+              missile_speed="85"
+              weapon_length="118"
+              accuracy="99"
+              thrust_damage="135"
+              thrust_damage_type="Pierce"
+              item_usage="long_bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="noble_yumi"
+        name="{=WRqYWspc}Noble Yumi"
+        body_name="bo_composite_longbow_g"
+        mesh="longbow_j"
+		is_merchandise="true"
+        weight="0.8"
+        difficulty="80"
+        appearance="0.1"
+        Type="Bow"
+        item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="130"
+              speed_rating="100"
+              missile_speed="90"
+              weapon_length="120"
+              accuracy="110"
+              thrust_damage="140"
+              thrust_damage_type="Pierce"
+              item_usage="long_bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="j_piercing_arrows"
+        name="{=rdKSIamN}Japanese Piercing Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_a"
+        holster_mesh="arrow_bl_a_quiver"
+        holster_mesh_with_weapon="arrow_bl_a_quiver"
+        weight="0.035"
+        flying_mesh="arrow_bl_flying"
+        appearance="1"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts_2:quiver_bolts"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="23"
+              physics_material="missile"
+              thrust_speed="0"
+              speed_rating="0"
+              missile_speed="10"
+              weapon_length="120"
+              thrust_damage="4"
+              thrust_damage_type="Pierce"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="j_bodkin_arrows_a"
+        name="{=DI9P2HDG}Japanese Stacked Bodkin Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_b"
+        holster_mesh="arrow_bl_b_quiver"
+        holster_mesh_with_weapon="arrow_bl_b_quiver"
+        weight="0.048"
+        flying_mesh="arrow_bl_flying"
+        appearance="1"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts_2:quiver_bolts"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="32"
+              thrust_speed="0"
+              speed_rating="0"
+              physics_material="missile"
+              missile_speed="10"
+              weapon_length="120"
+              thrust_damage="3"
+              thrust_damage_type="Pierce"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="j_bodkin_arrows_b"
+        name="{=SbARa2gU}Japanese Bodkin Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_c"
+        holster_mesh="arrow_bl_c_quiver"
+        holster_mesh_with_weapon="arrow_bl_c_quiver"
+        weight="0.048"
+        flying_mesh="arrow_bl_flying"
+        appearance="1"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts_2:quiver_bolts"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="24"
+              thrust_speed="0"
+              speed_rating="0"
+              physics_material="missile"
+              missile_speed="10"
+              weapon_length="120"
+              thrust_damage="3"
+              thrust_damage_type="Pierce"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="j_bodkin_arrows_c"
+        name="{=BqAUrOpn}Japanese Light Bodkin Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_d"
+        weight="0.048"
+        appearance="1"
+        flying_mesh="arrow_bl_flying"
+        holster_mesh="arrow_bl_d_quiver"
+        holster_mesh_with_weapon="arrow_bl_d_quiver"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts_2:quiver_bolts"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="21"
+              thrust_speed="0"
+              speed_rating="0"
+              physics_material="missile"
+              missile_speed="10"
+              weapon_length="120"
+              thrust_damage="3"
+              thrust_damage_type="Pierce"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="j_barbed_arrows"
+        name="{=s7jkSgba}Japanese Barbed Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_g"
+        weight="0.05"
+        appearance="1"
+        flying_mesh="arrow_bl_flying"
+        holster_mesh="arrow_bl_h_quiver"
+        holster_mesh_with_weapon="arrow_bl_h_quiver"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts_2:quiver_bolts"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="20"
+              thrust_speed="0"
+              speed_rating="0"
+              physics_material="missile"
+              missile_speed="10"
+              weapon_length="120"
+              thrust_damage="1"
+              thrust_damage_type="Pierce"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="j_range_arrows"
+        name="{=Biq7t1xv}Japanese Range Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_i"
+        weight="0.035"
+        appearance="1"
+        flying_mesh="arrow_bl_flying"
+        holster_mesh="arrow_bl_i_quiver"
+        holster_mesh_with_weapon="arrow_bl_i_quiver"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts_2:quiver_bolts"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="27"
+              thrust_speed="0"
+              speed_rating="0"
+              physics_material="missile"
+              missile_speed="10"
+              weapon_length="120"
+              thrust_damage="1"
+              thrust_damage_type="Pierce"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="j_tournament_arrows"
+        name="{=bK03bqdA}Japanese Tournament Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_i"
+        weight="0.035"
+        appearance="1"
+        flying_mesh="arrow_bl_flying"
+        holster_mesh="arrow_bl_i_quiver"
+        holster_mesh_with_weapon="arrow_bl_i_quiver"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts:quiver_bolts_2"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="30"
+              thrust_speed="0"
+              speed_rating="0"
+              physics_material="missile"
+              missile_speed="10"
+              weapon_length="97"
+              thrust_damage="0"
+              thrust_damage_type="Blunt"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="j_default_arrows"
+        name="{=gFtu0j4T}Japanese Arrows"
+        body_name="bo_capsule_arrow"
+        holster_body_name="bo_axe_short"
+        mesh="arrow_bl_i"
+        weight="0.043"
+        appearance="1"
+        flying_mesh="arrow_bl_flying"
+        holster_mesh="arrow_bl_i_quiver"
+        holster_mesh_with_weapon="arrow_bl_i_quiver"
+        Type="Arrows"
+        item_holsters="quiver_back_middle:quiver_bolts_2:quiver_bolts"
+        holster_position_shift="0.0,0.0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow"
+              stack_amount="27"
+              thrust_speed="0"
+              speed_rating="0"
+              physics_material="missile"
+              missile_speed="10"
+              weapon_length="120"
+              thrust_damage="0"
+              thrust_damage_type="Pierce"
+              item_usage="arrow_right"
+              passby_sound_code="event:/mission/combat/missile/passby"
+              rotation="0, -80, 25"
+              sticking_position="0,-0.97,0"
+              sticking_rotation="90,0,0"
+              center_of_mass="0,0,-0.13">
+        <WeaponFlags Consumable="true"
+                     AmmoSticksWhenShot="true"
+                     AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags />
+  </Item>
+   <!--Kunais--> 
+   <CraftedItem id="ex_kunai"
+               name="{=8NrM7hzY}Excellent Kunai"
+               crafting_template="Kunai">
+    <Pieces>
+      <Piece id="kunai_blade_1"
+             Type="Blade" />
+      <Piece id="kunai_guard_1"
+             Type="Guard" />
+      <Piece id="kunai_grip_1"
+             Type="Handle" />
+      <Piece id="kunai_pommel_1"
+             Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="w_kunai"
+               name="{=te48yHa8}Wellmade Kunai"
+               crafting_template="Kunai">
+    <Pieces>
+      <Piece id="kunai_blade_1"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="kunai_guard_2"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="kunai_grip_2"
+             Type="Handle" />
+      <Piece id="kunai_pommel_1"
+             Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="mas_kunai"
+               name="{=i4bslk7h}Mastermade Kunai"
+               crafting_template="Kunai"
+               >
+    <Pieces>
+      <Piece id="kunai_blade_2"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="kunai_guard_3"
+             Type="Guard" />
+      <Piece id="kunai_grip_3"
+             Type="Handle" />
+      <Piece id="kunai_pommel_2"
+             Type="Pommel" />
+    </Pieces>
+    <!-- Length: 69 Weight: 0.76 SwingSpeed: 113 ThrustSpeed: 108 -->
+  </CraftedItem>
+  
+  <CraftedItem id="cheap_kunai"
+               name="{=koOrDa9q}Cheap Kunai"
+               crafting_template="Kunai"
+               >
+    <Pieces>
+      <Piece id="kunai_blade_3"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="kunai_guard_4"
+             Type="Guard" />
+      <Piece id="kunai_grip_4"
+             Type="Handle" />
+      <Piece id="kunai_pommel_3"
+             Type="Pommel" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="base_kunai"
+               name="{=S6BFpEg3}Simple Kunai"
+               crafting_template="Kunai">
+    <Pieces>
+      <Piece id="kunai_blade_4"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="kunai_guard_5"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="kunai_grip_5"
+             Type="Handle"
+             scale_factor="110" />
+      <Piece id="kunai_pommel_4"
+             Type="Pommel"
+             scale_factor="110" />
+    </Pieces>
+    <!-- Length: 67 Weight: 0.91 SwingSpeed: 110 ThrustSpeed: 111 -->
+  </CraftedItem>
+  <!--Nagamakis-->
+    <CraftedItem id="base_nagamaki"
+               name="{=oQmUlQWp}Simple Nagamaki"
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="nagamakisimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="nagamakisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="nagamakisimplegrip"
+             Type="Handle"
+             scale_factor="240" />
+      <Piece id="katanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="rustynagamaki"
+               name="{=oQmUlQWp}Rusty Nagamaki "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="rustynagamakisimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="rustynagamakisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="rustynagamakisimplegrip"
+             Type="Handle"
+             scale_factor="240" />
+      <Piece id="rustykatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="excnagamaki"
+               name="{=oQmUlQWp}Excellent Nagamaki "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="excnagamakisimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="excnagamakisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="excnagamakisimplegrip"
+             Type="Handle"
+             scale_factor="240" />
+      <Piece id="exckatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="masnagamaki"
+               name="{=oQmUlQWp}Master Forged Nagamaki "
+               crafting_template="katanas">
+    <Pieces>
+      <Piece id="masnagamakisimpleblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="masnagamakisimpleguard"
+             Type="Guard"
+             scale_factor="110" />
+      <Piece id="masnagamakisimplegrip"
+             Type="Handle"
+             scale_factor="240" />
+      <Piece id="maskatanasimplepommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  <!--kamayaris-->
+  <CraftedItem id="simplekamayari"
+               name="{=WrlIl4nW}Simple Kamayari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="kamayariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="yarihandle"
+             Type="Handle"
+             scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="russimplekamayari"
+               name="{=WrlIl4nW}Rusty Kamayari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="ruskamayariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="rusyarihandle"
+             Type="Handle"
+             scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="excsimplekamayari"
+               name="{=WrlIl4nW}Excellent Kamayari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="exckamayariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="excyarihandle"
+             Type="Handle"
+             scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  <CraftedItem id="massimplekamayari"
+               name="{=WrlIl4nW}Master Forged Kamayari "
+               crafting_template="yaris">
+    <Pieces>
+      <Piece id="maskamayariblade"
+             Type="Blade"
+             scale_factor="110" />
+      <Piece id="masyarihandle"
+             Type="Handle"
+             scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  
+  <!--Sais-->
+   <Item id="temp_sai"
+        name="{=6Cc4zpeQ}Sai"
+        using_tableau="true"
+        body_name="bo_cap_aserai_shields_d"
+        shield_body_name="bo_aserai_shields_c"
+        recalculate_body="false"
+        mesh="aserai_shields_c"
+        weight="0.5"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_round:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.12,-0.20,-0.08">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="1"
+              thrust_speed="82"
+              thrust_damage_type="Pierce"
+              speed_rating="800"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="70"
+              center_of_mass="-0.0, 0.12, 0.1"
+			  hit_points="500">
+        <WeaponFlags CanBlockRanged="false"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  
+  <!--SAMURAI-->
+  
+  <!--KABUTO-->
+  <Item id="kabuto"
+        name="{=5n4rWI9T}Simple Kabuto"
+        subtype="head_armor"
+        mesh="khuzait_helmet_f"
+        weight="1.7"
+        difficulty="0"
+        appearance="2.4"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="52"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             beard_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="ruskabuto"
+        name="{=5n4rWI9T}Rusty Kabuto"
+        subtype="head_armor"
+        mesh="khuzait_helmet_f"
+        weight="1.9"
+        difficulty="0"
+        appearance="2.4"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="43"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             beard_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="exckabuto"
+        name="{=5n4rWI9T}Excellent Kabuto"
+        subtype="head_armor"
+        mesh="khuzait_helmet_f"
+        weight="1.6"
+        difficulty="0"
+        appearance="2.4"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="54"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             beard_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="maskabuto"
+        name="{=5n4rWI9T}Master Forged Kabuto"
+        subtype="head_armor"
+        mesh="khuzait_helmet_f"
+        weight="1.5"
+        difficulty="0"
+        appearance="2.4"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="56"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             beard_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="lorkabuto"
+        name="{=5n4rWI9T}Daimyo's Kabuto"
+        subtype="head_armor"
+        mesh="khuzait_helmet_f"
+        weight="1.3"
+        difficulty="0"
+        appearance="2.4"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="62"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             beard_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  
+  <!--Shoulders-->
+  <Item id="sode"
+        name="{=wZ3nKO6j}Simple Sode"
+        mesh="khuzait_leather_pauldron"
+        weight="1.6"
+        appearance="1"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="17"
+             arm_armor="4"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="russode"
+        name="{=wZ3nKO6j}Rusty Sode"
+        mesh="khuzait_leather_pauldron"
+        weight="1.8"
+        appearance="1"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="13"
+             arm_armor="2"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="excsode"
+        name="{=Lt8nT1hb}Excellent Sode"
+        mesh="metal_lamellar_armor_shoulder"
+        weight="2.0"
+        appearance="2"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="21"
+             arm_armor="8"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="massode"
+        name="{=Lt8nT1hb}Master Forged Sode"
+        mesh="metal_lamellar_armor_shoulder"
+        weight="1.8"
+        appearance="2"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="23"
+             arm_armor="9"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="lorsode"
+        name="{=Lt8nT1hb}Daimyo's Sode"
+        mesh="metal_lamellar_armor_shoulder"
+        weight="1.6"
+        appearance="2"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="27"
+             arm_armor="11"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <!--Do Kusazuri-->
+  <Item id="dokusazuri"
+        name="{=ho4bsI3Q}Simple Do Kusazuri"
+        mesh="imperial_lamellar_b"
+        subtype="body_armor"
+        weight="6"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="52"
+             leg_armor="21"
+             arm_armor="21"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="rusdokusazuri"
+        name="{=ho4bsI3Q}Rusty Do Kusazuri"
+        mesh="imperial_lamellar_b"
+        subtype="body_armor"
+        weight="6.6"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="45"
+             leg_armor="18"
+             arm_armor="18"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="excdokusazuri"
+        name="{=ho4bsI3Q}Excellent Do Kusazuri"
+        mesh="imperial_lamellar_b"
+        subtype="body_armor"
+        weight="5.7"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="54"
+             leg_armor="22"
+             arm_armor="22"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="masdokusazuri"
+        name="{=ho4bsI3Q}Master Forged Do Kusazuri"
+        mesh="imperial_lamellar_b"
+        subtype="body_armor"
+        weight="5.4"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="57"
+             leg_armor="23"
+             arm_armor="23"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="lordokusazuri"
+        name="{=ho4bsI3Q}Daimyo's Do Kusazuri"
+        mesh="imperial_lamellar_b"
+        subtype="body_armor"
+        weight="4.9"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="62"
+             leg_armor="26"
+             arm_armor="26"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <!--Kote Tekko-->
+  <Item id="kotetekko"
+        name="{=XGX6DbFL}Simple Kote Tekko"
+        mesh="imperial_gauntlets"
+        weight="1.3"
+        appearance="3"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="32"
+             covers_hands="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="ruskotetekko"
+        name="{=XGX6DbFL}Rusty Kote Tekko"
+        mesh="imperial_gauntlets"
+        weight="1.7"
+        appearance="3"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="27"
+             covers_hands="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="exckotetekko"
+        name="{=XGX6DbFL}Excellent Kote Tekko"
+        mesh="imperial_gauntlets"
+        weight="1.2"
+        appearance="3"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="30"
+             covers_hands="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="maskotetekko"
+        name="{=XGX6DbFL}Master Forged Kote Tekko"
+        mesh="imperial_gauntlets"
+        weight="1.1"
+        appearance="3"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="33"
+             covers_hands="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="lorkotetekko"
+        name="{=XGX6DbFL}Daimyo's Kote Tekko"
+        mesh="imperial_gauntlets"
+        weight="0.9"
+        appearance="3"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="37"
+             covers_hands="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <!--Suneate-->
+  <Item id="suneate"
+        name="{=9cHyHQ7a}Simple Suneate"
+        mesh="imperial_boots"
+        culture="Culture.empire"
+        weight="2.5"
+        difficulty="0"
+        appearance="3"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="34"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="russuneate"
+        name="{=9cHyHQ7a}Rusty Suneate"
+        mesh="imperial_boots"
+        culture="Culture.empire"
+        weight="3.0"
+        difficulty="0"
+        appearance="3"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="28"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="excsuneate"
+        name="{=9cHyHQ7a}Excellent Suneate"
+        mesh="imperial_boots"
+        culture="Culture.empire"
+        weight="2.3"
+        difficulty="0"
+        appearance="3"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="36"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="massuneate"
+        name="{=9cHyHQ7a}Master Forged Suneate"
+        mesh="imperial_boots"
+        culture="Culture.empire"
+        weight="2.1"
+        difficulty="0"
+        appearance="3"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="38"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="lorsuneate"
+        name="{=9cHyHQ7a}Daimyo's Suneate"
+        mesh="imperial_boots"
+        culture="Culture.empire"
+        weight="1.7"
+        difficulty="0"
+        appearance="3"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="43"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <!--Kura-->
+  <Item multiplayer_item="false"
+        id="kura"
+        name="{=EfRKaKs0}Simple Kura"
+        mesh="horse_harness_khuzait_a_clotest"
+        subtype="body_armor"
+        weight="6.0"
+        difficulty="0"
+        appearance="1"
+        Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="16"
+             mane_cover_type="none"
+             family_type="1"
+             modifier_group="chain"
+             reins_mesh="horse_harness_khuzait_a_rein"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item multiplayer_item="false"
+        id="oldkura"
+        name="{=EfRKaKs0}Old Kura"
+        mesh="horse_harness_khuzait_a_clotest"
+        subtype="body_armor"
+        weight="6.4"
+        difficulty="0"
+        appearance="1"
+        Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="12"
+             mane_cover_type="none"
+             family_type="1"
+             modifier_group="chain"
+             reins_mesh="horse_harness_khuzait_a_rein"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item multiplayer_item="false"
+        id="exckura"
+        name="{=EfRKaKs0}Excellent Kura"
+        mesh="horse_harness_khuzait_a_clotest"
+        subtype="body_armor"
+        weight="5.6"
+        difficulty="0"
+        appearance="1"
+        Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="20"
+             mane_cover_type="none"
+             family_type="1"
+             modifier_group="chain"
+             reins_mesh="horse_harness_khuzait_a_rein"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item multiplayer_item="false"
+        id="perkura"
+        name="{=EfRKaKs0}Perfectly Balanced Kura"
+        mesh="horse_harness_khuzait_a_clotest"
+        subtype="body_armor"
+        weight="5.3"
+        difficulty="0"
+        appearance="1"
+        Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="23"
+             mane_cover_type="none"
+             family_type="1"
+             modifier_group="chain"
+             reins_mesh="horse_harness_khuzait_a_rein"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item multiplayer_item="false"
+        id="lorkura"
+        name="{=EfRKaKs0}Daimyo's Kura"
+        mesh="horse_harness_khuzait_a_clotest"
+        subtype="body_armor"
+        weight="4.7"
+        difficulty="0"
+        appearance="1"
+        Type="HorseHarness">
+    <ItemComponent>
+      <Armor body_armor="29"
+             mane_cover_type="none"
+             family_type="1"
+             modifier_group="chain"
+             reins_mesh="horse_harness_khuzait_a_rein"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <!--Ashigaru armor-->
+  <Item id="ashigarushoulders"
+        name="{=qGzZ78bM}Ashigaru Tate-Eri"
+        mesh="bandit_11_shoulders"
+        weight="0.5"
+        appearance="1"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="8"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="strashigarushoulders"
+        name="{=qGzZ78bM}Hardened Ashigaru Tate-Eri"
+        mesh="bandit_11_shoulders"
+        weight="0.7"
+        appearance="1"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="14"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+   <Item id="ashigarubodylight"
+        name="{=bvgHgb6E}Ashigaru Tatami-Do"
+        mesh="khuzait_sturdy_armor"
+        weight="2.4"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="15"
+             leg_armor="4"
+             arm_armor="2"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  
+   <Item id="ashigarugloves"
+        name="{=OEyuUWji}Ashigaru Kote"
+        mesh="plated_leather_armor_glove_a"
+        weight="0.3"
+        appearance="1"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="5"
+             covers_hands="false"
+             modifier_group="cloth"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="strashigarugloves"
+        name="{=OEyuUWji}Hardened Ashigaru Kote"
+        mesh="plated_leather_armor_glove_a"
+        weight="0.5"
+        appearance="1"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="9"
+             covers_hands="false"
+             modifier_group="cloth"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+   <!--Leg armor will be Suneate with tabi and waraji-->
+   <Item id="ashigarulegs"
+        name="{=Fb7PrJuc}Ashigaru Suneate"
+        mesh="empire_plated_boots"
+        weight="2.7"
+        appearance="2"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="22"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="strashigarulegs"
+        name="{=Fb7PrJuc}Hardened Ashigaru Suneate"
+        mesh="empire_plated_boots"
+        weight="2.7"
+        appearance="2"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="27"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="ashigarubody"
+        name="{=rOpxDHXL}Ashigaru Okegawa-Do"
+        mesh="leather_lamellar_armor"
+        weight="2.6"
+        appearance="1.2"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="22"
+             leg_armor="6"
+             arm_armor="3"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" />
+  </Item>
+  <Item id="ashigaruhead"
+        name="{=UvJDlhMq}Ashigaru Jingasa"
+        subtype="head_armor"
+        mesh="khuzait_helmet_n"
+        weight="0.3"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="14"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="strashigaruhead"
+        name="{=UvJDlhMq}Hardened Ashigaru Jingasa"
+        subtype="head_armor"
+        mesh="khuzait_helmet_n"
+        weight="0.3"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="19"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <!--Ninja hoods-->
+  <Item id="ninjahood"
+        name="{=frwBm3Oh}Shinobi Zukin"
+        subtype="head_armor"
+        mesh="vlandia_helmet_d"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="18"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth"
+             beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="oldninjahood"
+        name="{=frwBm3Oh}Old Shinobi Zukin"
+        subtype="head_armor"
+        mesh="vlandia_helmet_d"
+        weight="0.3"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="14"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth"
+             beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="strninjahood"
+        name="{=frwBm3Oh}Hardened Shinobi Zukin"
+        subtype="head_armor"
+        mesh="vlandia_helmet_d"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="22"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth"
+             beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="perninjahood"
+        name="{=frwBm3Oh}Perfected Shinobi Zukin"
+        subtype="head_armor"
+        mesh="vlandia_helmet_d"
+        weight="0.1"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="26"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth"
+             beard_cover_type="type2" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <!--Ninja Armor-->
+  <Item id="ninjaarmor"
+        name="{=DuLFJbXJ}Shinobi Uwagi"
+        mesh="khuzait_belt_leather"
+        weight="0.5"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="15"
+             leg_armor="7"
+             arm_armor="5"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="oldninjaarmor"
+        name="{=DuLFJbXJ}Old Shinobi Uwagi"
+        mesh="khuzait_belt_leather"
+        weight="0.7"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="12"
+             leg_armor="6"
+             arm_armor="4"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="strninjaarmor"
+        name="{=DuLFJbXJ}Hardened Shinobi Uwagi"
+        mesh="khuzait_belt_leather"
+        weight="0.5"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="19"
+             leg_armor="9"
+             arm_armor="7"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <Item id="perninjaarmor"
+        name="{=DuLFJbXJ}Perfected Shinobi Uwagi"
+        mesh="khuzait_belt_leather"
+        weight="0.25"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="27"
+             leg_armor="14"
+             arm_armor="11"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true"
+           Civilian="true" />
+  </Item>
+  <!--Ninja Gloves-->
+  <Item id="ninjagloves"
+        name="{=OEyuUWji}Shinobi Tekoh"
+        mesh="plated_leather_armor_glove_a"
+        weight="0.09"
+        appearance="1"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="9"
+             covers_hands="false"
+             modifier_group="cloth"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="oldninjagloves"
+        name="{=OEyuUWji}Old Shinobi Tekoh"
+        mesh="plated_leather_armor_glove_a"
+        weight="0.12"
+        appearance="1"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="7"
+             covers_hands="false"
+             modifier_group="cloth"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="strninjagloves"
+        name="{=OEyuUWji}Hardened Shinobi Tekoh"
+        mesh="plated_leather_armor_glove_a"
+        weight="0.08"
+        appearance="1"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="11"
+             covers_hands="false"
+             modifier_group="cloth"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="perninjagloves"
+        name="{=OEyuUWji}Perfected Shinobi Tekoh"
+        mesh="plated_leather_armor_glove_a"
+        weight="0.05"
+        appearance="1"
+        Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="14"
+             covers_hands="false"
+             modifier_group="cloth"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <!--Ninja Pants-->
+  <Item id="ninjapants"
+        name="{=aYoIrpe0}Shinobi Tabi"
+        mesh="mail_chausses_b"
+        weight="0.3"
+        difficulty="0"
+        appearance="1.6"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="14"
+             covers_legs="true"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="oldninjapants"
+        name="{=aYoIrpe0}Old Shinobi Tabi"
+        mesh="mail_chausses_b"
+        weight="0.4"
+        difficulty="0"
+        appearance="1.6"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="10"
+             covers_legs="true"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="strninjapants"
+        name="{=aYoIrpe0}Hardened Shinobi Tabi"
+        mesh="mail_chausses_b"
+        weight="0.25"
+        difficulty="0"
+        appearance="1.6"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="17"
+             covers_legs="true"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <Item id="perfninjapants"
+        name="{=aYoIrpe0}Perfected Shinobi Tabi"
+        mesh="mail_chausses_b"
+        weight="0.12"
+        difficulty="0"
+        appearance="1.6"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="21"
+             covers_legs="true"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+  <CraftedItem id="ashiloansword"
+               name="{=oQmUlQWp}Ashigaru Loan Sword "
+               crafting_template="OneHandedSword"
+               culture="Culture.khuzait">
+    <Pieces>
+      <Piece id="khuzait_blade_6"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="khuzait_guard_3"
+             Type="Guard"
+             scale_factor="100" />
+      <Piece id="aserai_grip_23"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="aserai_pommel_2"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+
+</Items>
